@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.4.1)
 # Standard Android dependencies
 find_library(android-lib android)
 find_library(EGL-lib EGL)
-find_library(GLESv2-lib GLESv2)
+find_library(GLESv3-lib GLESv3)
 find_library(log-lib log)
 
 include_directories(.)
@@ -61,6 +61,6 @@ target_include_directories(cardboard_api
 target_link_libraries(cardboard_api
     ${android-lib}
     ${EGL-lib}
-    ${GLESv2-lib}
+    ${GLESv3-lib}
     ${log-lib}
     cardboard_device_proto)

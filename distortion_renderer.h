@@ -20,10 +20,10 @@
 #include <cstdio>
 
 #ifdef __ANDROID__
-#include <GLES2/gl2.h>
+#include <GLES3/gl3.h>
 #endif
 #ifdef __APPLE__
-#include <OpenGLES/ES2/gl.h>
+#include <OpenGLES/ES3/gl.h>
 #endif
 #include "include/cardboard.h"
 
