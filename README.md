@@ -1,9 +1,9 @@
 Cardboard SDK
+=============
 
-Copied from (original Google project)[https://github.com/googlevr/cardboard/tree/v1.0.0/sdk]
+Copied from [original Google project](https://github.com/googlevr/cardboard/tree/v1.0.0/sdk)
 to separate root directory
 
-=============
 Copyright 2019 Google LLC.  All rights reserved.
 
 This SDK provides everything you need to create your own Virtual Reality (VR)
