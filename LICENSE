@@ -1,18 +1,3 @@
-===============================================================================
-
-All files in the following folders:
-- proto/libprotobuf/
-
-are licensed as follows:
-
-Covered by the **Google Protocol Buffers license** at
-[https://github.com/protocolbuffers/protobuf/blob/v3.10.1/LICENSE](https://github.com/protocolbuffers/protobuf/blob/v3.10.1/LICENSE)
-
-===============================================================================
-
-Except as indicated previously in this LICENSE file
-files in this SDK are licensed as follows:
-
 Copyright (c) 2019, Google LLC.
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
